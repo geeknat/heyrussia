@@ -69,21 +69,21 @@ To install, use `go get`:
 $ go get -d github.com/geeknat/heyrussia
 ```
 
-or for 32 bit Windows , [download here](https://github.com/geeknat/heyrussia/releases/heyrussia_windows_386.exe).
+or for 32 bit Windows , [download here](https://github.com/geeknat/heyrussia/releases/download/v1.0.0/heyrussia_windows_386.exe).
 
-or for 64 bit Windows , [download here](https://github.com/geeknat/heyrussia/releases/heyrussia_windows_amd64.exe).
+or for 64 bit Windows , [download here](https://github.com/geeknat/heyrussia/releases/download/v1.0.0/heyrussia_windows_amd64.exe).
 
-or for 32 bit Linux , [download here](https://github.com/geeknat/heyrussia/releases/heyrussia_linux_386).
+or for 32 bit Linux , [download here](https://github.com/geeknat/heyrussia/releases/download/v1.0.0/heyrussia_linux_386).
 
-or for 64 bit Linux , [download here](https://github.com/geeknat/heyrussia/releases/heyrussia_linux_amd64).
+or for 64 bit Linux , [download here](https://github.com/geeknat/heyrussia/releases/download/v1.0.0/heyrussia_linux_amd64).
 
-or for RISC Linux , [download here](https://github.com/geeknat/heyrussia/releases/heyrussia_linux_arm).
+or for RISC Linux , [download here](https://github.com/geeknat/heyrussia/releases/download/v1.0.0/heyrussia_linux_arm).
 
-or for 32 bit Mac OS, [download here](https://github.com/geeknat/heyrussia/releases/heyrussia_darwin_386).
+or for 32 bit Mac OS, [download here](https://github.com/geeknat/heyrussia/releases/download/v1.0.0/heyrussia_darwin_386).
 
-or for 64 bit Mac OS, [download here](https://github.com/geeknat/heyrussia/releases/heyrussia_darwin_amd64).
+or for 64 bit Mac OS, [download here](https://github.com/geeknat/heyrussia/releases/download/v1.0.0/heyrussia_darwin_amd64).
 
-or download for any platform from the [releases page](https://github.com/geeknat/heyrussia/releases).
+or download for any platform from the [releases page](https://github.com/geeknat/download/v1.0.0/heyrussia/releases).
 
 ## Licence
 
